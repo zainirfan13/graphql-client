@@ -1,7 +1,7 @@
 go-graphql-client
 =======
 
-[![Unit tests](https://github.com/hasura/go-graphql-client/actions/workflows/test.yml/badge.svg)](https://github.com/hasura/go-graphql-client/actions/workflows/test.yml)
+[![Unit tests](https://github.com/zainirfan13/graphql-client/actions/workflows/test.yml/badge.svg)](https://github.com/zainirfan13/graphql-client/actions/workflows/test.yml)
 
 **Preface:** This is a fork of `https://github.com/shurcooL/graphql` with extended features (subscription client, named operation)
 
@@ -51,7 +51,7 @@ For more information, see package [`github.com/shurcooL/githubv4`](https://githu
 `go-graphql-client` requires Go version 1.16 or later. For older Go versions, downgrade the library version below v0.7.1.
 
 ```bash
-go get -u github.com/hasura/go-graphql-client
+go get -u github.com/zainirfan13/graphql-client
 ```
 
 ## Usage
