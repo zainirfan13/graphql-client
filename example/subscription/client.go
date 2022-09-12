@@ -7,7 +7,7 @@ import (
 	"net/http"
 	"time"
 
-	graphql "github.com/hasura/go-graphql-client"
+	graphql "github.com/zainirfan13/graphql-client"
 )
 
 func getServerEndpoint() string {

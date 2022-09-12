@@ -10,7 +10,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/hasura/go-graphql-client/ident"
+	"github.com/zainirfan13/graphql-client/ident"
 )
 
 type constructOptionsOutput struct {

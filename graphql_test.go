@@ -10,7 +10,7 @@ import (
 	"net/http/httptest"
 	"testing"
 
-	"github.com/hasura/go-graphql-client"
+	"github.com/zainirfan13/graphql-client"
 )
 
 func TestClient_Query_partialDataWithErrorResponse(t *testing.T) {
